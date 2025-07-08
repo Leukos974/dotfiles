@@ -1,0 +1,26 @@
+# ALACRITTY CONFIG
+
+[window]
+
+decorations = "None"
+
+opacity = 0.8
+
+startup_mode = "Windowed"
+
+title = "Alacritty"
+dynamic_title = true
+
+padding = { x = 12, y = 15 }
+
+
+[scrolling]
+
+history = 10000
+multiplier = 1
+
+[font]
+
+normal = { family = "CaskaydiaCoveNerdFont", style = "Regular"}
+
+size = 20.5
